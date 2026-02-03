@@ -1,11 +1,4 @@
-# 🚀 Projects Portfolio – Vikash Kumar
-
-This repository contains my major web development projects built using **HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB**.  
-These projects demonstrate my understanding of **full-stack development, MVC architecture, authentication, and interactive UI design**.
-
----
-
-# 🏡 Airbnb-Style Rental Booking Web Application (Project-1)
+# 🏡 Airbnb-Style Rental Booking Web Application 
 
 A full-stack **Airbnb-style rental booking web application** developed using **Node.js, Express.js, MongoDB, and EJS**.  
 The project focuses on real-world backend concepts such as **CRUD operations, authentication, authorization, and MVC architecture**.
